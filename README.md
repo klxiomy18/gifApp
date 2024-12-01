@@ -16,3 +16,6 @@ Inicialización del Proyecto: Comencé creando un nuevo proyecto usando el coman
 
 Instalación de Dependencias: Ejecuté npm install para instalar las dependencias necesarias, incluyendo React y PropTypes.
 
+#Integrantes:
+Kristin Xiomara Muñoz Rivera
+Yicxela Herminia Conejo Conejo
